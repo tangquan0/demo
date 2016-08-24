@@ -1,0 +1,33 @@
+html,body{height: 100%}
+*{margin: 0;padding:0}
+.hide{display: none;}
+.page{width: 100%;height: 100%;position: absolute}
+
+.page-1-1{background: url(../images/rain_bg.jpg) no-repeat left top;background-size:  cover;}
+.warp .text img{;position:absolute;width: 100%;top: 4.49%}
+.warp .call img{;position:absolute;width: 24.26%;left: 24%;top: 8%;animation-delay: 1s}
+.warp .icon_up img{position: absolute;width:8%;left: 46%;bottom: 5%;animation-delay: 1.5s}
+
+.page-2-1{background: url(../images/rain2.jpg) no-repeat left top;background-size:  cover;}
+.warp2 .left img{position: absolute;width: 24%;left: 13%;top:10.49%;}
+.warp2 .center img{position: absolute;width: 24%;left: 38.4%;top:14.09%;}
+.warp2 .right img{position: absolute;width: 24%;left: 64%;top:6.89%;}
+.warp2 .con img{position: absolute;width: 24%;left: 58.26%;top:48.35%;}
+.warp2 .text2 img{position: absolute;width: 100%;left: 0;bottom:0;animation-delay: 1s}
+.warp2 .text2_1 img{position: absolute;width: 16.26%;left: 34.33%;bottom:30.3%;animation-delay: 2.5s}
+.warp2 .icon_up img{position: absolute;width:8%;left: 46%;bottom: 5%;animation-delay: 1.5s}
+
+.page-3-1{background: url(../images/rain2.jpg) no-repeat left top;background-size:  cover;}
+.warp3 .top img{position: absolute;width: 72.4%;left: 9.6%;top:10.49%;}
+.warp3 .text1 img{position: absolute;width: 30%;left: 13.33%;top:30.73%;animation-delay:0.5s}
+.warp3 .text2 img{position: absolute;width: 30%;left: 56.53%;top:30.73%;animation-delay:0.5s}
+.warp3 .text3 img{position: absolute;width: 30%;left: 13.33%;top:62.59%;animation-delay:1s}
+.warp3 .text4 img{position: absolute;width: 30%;left: 56.53%;top:62.59%;animation-delay:1s}
+.warp3 .icon_up img{position: absolute;width:8%;left: 46%;bottom: 5%;animation-delay: 1.5s}
+
+.page-4-1{background: url(../images/rain4_bg1.jpg) no-repeat left top;background-size:  cover;}
+.warp4 .rain4_2 img{position: absolute;width: 100%;left: 0;bottom:4.79%;}
+.warp4 .rain4_3 img{position: absolute;width: 83.73%;left: 8.13%;top:12.96%;}
+.warp4 .rain4_text img{position: absolute;width: 71.46%;left: 16.26%;top:47.45%;animation-delay:1s}
+.warp4 .rain4_text2 img{position: absolute;width: 50.26%;left: 24.93%;top:69.94%;animation-delay:1.5s}
+
